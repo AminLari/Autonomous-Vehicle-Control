@@ -4,9 +4,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <i align="center"> In The Name Of God </i>
 
-  <h3 align="center">ModernControl-UGV</h3>
+  <h3 align="center">Autonomous Vehicle Control</h3>
 
   <p align="center">
     Modeling, Planning and Nonlinear Control Techniques For Autonomous Vehicles 🎛️🚘
