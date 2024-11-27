@@ -1,14 +1,6 @@
  <div id="top"></div>
 
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -21,10 +13,10 @@
     <br />
     <b> System Kinematics and Dynamics Model and Controller Design </b>
     <br />
-    <a href="https://github.com/seyedsaleh/ModernControl-UGV"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AminLari/Autonomous-Vehicle-Control"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/seyedsaleh/ModernControl-UGV/issues">Report Bug & Request Feature</a>
+    <a href="https://github.com/AminLari/Autonomous-Vehicle-Control/issues">Report Bug & Request Feature</a>
   </p>
 </div>
 
@@ -136,15 +128,17 @@ Due to the high complexity of the dynamic system, the problem controller was gen
 <!-- CONTACT -->
 ## Contact
 
+Mohammadamin Lari - [@aminlari](https://github.com/AminLari) - mohamadamin.lari@gmail.com
+
 Seyedmohammadsaleh Mirzatabatabaei - [@seyedsaleh](https://github.com/seyedsaleh) - seyedsaleh.edu@gmail.com
 
 Salman Amimotlagh - [@SMotlaq](https://github.com/SMotlaq) - pilot.motlaq@gmail.com
 
 Shima Naseri - [@shimanaseri](https://github.com/shimanaseri) - shima.s.naseri@gmail.com
 
-Amin Lari - Tara Radjabi
+Tara Radjabi
 
-Project Link: [https://github.com/seyedsaleh/ModernControl-UGV](https://github.com/seyedsaleh/ModernControl-UGV)
+Project Link: [https://github.com/AminLari/Autonomous-Vehicle-Control)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -155,7 +149,7 @@ Project Link: [https://github.com/seyedsaleh/ModernControl-UGV](https://github.c
 
 - [x] Project has been done.
 
-See the [open issues](https://github.com/seyedsaleh/ModernControl-UGV/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AminLari/Autonomous-Vehicle-Control/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -168,15 +162,3 @@ See the [open issues](https://github.com/seyedsaleh/ModernControl-UGV/issues) fo
 </p>
 </div>
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/seyedsaleh/ModernControl-UGV.svg?style=for-the-badge
-[contributors-url]: https://github.com/seyedsaleh/ModernControl-UGV/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/seyedsaleh/ModernControl-UGV.svg?style=for-the-badge
-[forks-url]: https://github.com/seyedsaleh/ModernControl-UGV/network/members
-[stars-shield]: https://img.shields.io/github/stars/seyedsaleh/ModernControl-UGV.svg?style=for-the-badge
-[stars-url]: https://github.com/seyedsaleh/ModernControl-UGV/stargazers
-[issues-shield]: https://img.shields.io/github/issues/seyedsaleh/ModernControl-UGV.svg?style=for-the-badge
-[issues-url]: https://github.com/seyedsaleh/ModernControl-UGV/issues
