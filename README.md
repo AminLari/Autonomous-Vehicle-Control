@@ -135,7 +135,7 @@ Salman Amimotlagh - [@SMotlaq](https://github.com/SMotlaq) - pilot.motlaq@gmail.
 
 Shima Naseri - [@shimanaseri](https://github.com/shimanaseri) - shima.s.naseri@gmail.com
 
-Tara Radjabi
+Tara Radjabi - [@tradjabi](https://github.com/tradjabi) - tradjabi@gmail.com
 
 Project Link: [https://github.com/AminLari/Autonomous-Vehicle-Control)
 
