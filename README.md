@@ -124,8 +124,9 @@ Due to the high complexity of the dynamic system, the problem controller was gen
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
-## Contact
+
+## 📞 Contact
+If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
 
 Mohammadamin Lari - [@aminlari](https://github.com/AminLari) - mohamadamin.lari@gmail.com
 
