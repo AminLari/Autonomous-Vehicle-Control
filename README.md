@@ -46,7 +46,7 @@
 Today, one of the most challenging topics in the world is the issue of self-driving cars. Companies are investing heavily in the development of this technology and have extensive research on the subject, including Tesla and Google.
 A self-driving car has several parts; Initially, it must receive feedback from the environment with its sensors (such as ultrasonic proximity sensors, camera for image processing, GPS satellite communication module, and speed and acceleration sensors).
 Then, with data integration methods, this information reaches the controller whose main task is to apply the desired input to the system operators to receive the desired output (such as throttle, brake, gear adjustment and steering angle).
-
+<p> <img src="https://github.com/user-attachments/assets/5de9c69f-7f5e-4ee9-a4be-e9ae4c45e784" width="1000"> </p> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
