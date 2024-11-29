@@ -42,9 +42,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-<p> <img src="https://user-images.githubusercontent.com/47852354/141318398-34b3417e-73f6-4230-96f6-200614180e47.PNG" width="1000"> </p> 
+## About The Project 
 Today, one of the most challenging topics in the world is the issue of self-driving cars. Companies are investing heavily in the development of this technology and have extensive research on the subject, including Tesla and Google.
 A self-driving car has several parts; Initially, it must receive feedback from the environment with its sensors (such as ultrasonic proximity sensors, camera for image processing, GPS satellite communication module, and speed and acceleration sensors).
 Then, with data integration methods, this information reaches the controller whose main task is to apply the desired input to the system operators to receive the desired output (such as throttle, brake, gear adjustment and steering angle).
@@ -100,7 +98,7 @@ Due to the high complexity of the dynamic system, the problem controller was gen
 
 <!-- RESULTS -->
 ## Results
-
+<p> <img src="https://user-images.githubusercontent.com/47852354/141318398-34b3417e-73f6-4230-96f6-200614180e47.PNG" width="1000"> </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
